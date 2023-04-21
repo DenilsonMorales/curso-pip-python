@@ -1,1 +1,2 @@
 # curso-pip-python
+## Steps 
